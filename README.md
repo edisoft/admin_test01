@@ -20,7 +20,7 @@ Sample output for cert.pem:
 Create patch
 ============
 
-1. After your modifications, create a patch for admin1 directory using git
+1. After your modifications, create a patch for admin_test01 directory using git
 or usual diff -Nur.
 
 2. Using openssl, encrypt (RSA) the patch with cert.pem.
